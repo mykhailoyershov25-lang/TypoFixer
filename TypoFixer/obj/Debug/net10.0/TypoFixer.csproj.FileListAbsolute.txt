@@ -1,0 +1,15 @@
+/Users/mihajloersov/Downloads/typo-fixer-asd/TypoFixer/TypoFixer/bin/Debug/net10.0/words_list.txt
+/Users/mihajloersov/Downloads/typo-fixer-asd/TypoFixer/TypoFixer/bin/Debug/net10.0/TypoFixer
+/Users/mihajloersov/Downloads/typo-fixer-asd/TypoFixer/TypoFixer/bin/Debug/net10.0/TypoFixer.deps.json
+/Users/mihajloersov/Downloads/typo-fixer-asd/TypoFixer/TypoFixer/bin/Debug/net10.0/TypoFixer.runtimeconfig.json
+/Users/mihajloersov/Downloads/typo-fixer-asd/TypoFixer/TypoFixer/bin/Debug/net10.0/TypoFixer.dll
+/Users/mihajloersov/Downloads/typo-fixer-asd/TypoFixer/TypoFixer/bin/Debug/net10.0/TypoFixer.pdb
+/Users/mihajloersov/Downloads/typo-fixer-asd/TypoFixer/TypoFixer/obj/Debug/net10.0/TypoFixer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mihajloersov/Downloads/typo-fixer-asd/TypoFixer/TypoFixer/obj/Debug/net10.0/TypoFixer.AssemblyInfoInputs.cache
+/Users/mihajloersov/Downloads/typo-fixer-asd/TypoFixer/TypoFixer/obj/Debug/net10.0/TypoFixer.AssemblyInfo.cs
+/Users/mihajloersov/Downloads/typo-fixer-asd/TypoFixer/TypoFixer/obj/Debug/net10.0/TypoFixer.csproj.CoreCompileInputs.cache
+/Users/mihajloersov/Downloads/typo-fixer-asd/TypoFixer/TypoFixer/obj/Debug/net10.0/TypoFixer.dll
+/Users/mihajloersov/Downloads/typo-fixer-asd/TypoFixer/TypoFixer/obj/Debug/net10.0/refint/TypoFixer.dll
+/Users/mihajloersov/Downloads/typo-fixer-asd/TypoFixer/TypoFixer/obj/Debug/net10.0/TypoFixer.pdb
+/Users/mihajloersov/Downloads/typo-fixer-asd/TypoFixer/TypoFixer/obj/Debug/net10.0/TypoFixer.genruntimeconfig.cache
+/Users/mihajloersov/Downloads/typo-fixer-asd/TypoFixer/TypoFixer/obj/Debug/net10.0/ref/TypoFixer.dll
